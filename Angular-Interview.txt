@@ -1,2 +1,20 @@
 https://codingcompiler.com/angular-2-interview-questions/
 
+1. Why angular and Angular JS vs 2 and latest version and its features
+2. code structure
+3. How do you ensure angular performnce
+4. Routing and its parametrs and how to pass paramter data to another, pathmatching
+5. component evel interaction, input, output
+6. all about services
+7. life cycle hooks and constrictr vs ngoninit
+8. how app executes first with pacllkge json
+9. Forms reactive,dynamic
+10. Testing
+11. observabls vs promise, rxjs
+12. Spa
+13. @injectable
+14. how bootstrapping app works
+https://angular.io/guide/bootstrapping
+15. anguar architecture
+16. types of directives and types of decarators
+17. directive vs component
