@@ -113,3 +113,11 @@ https://codehandbook.org/how-to-remove-duplicates-from-javascript-array/
 
 
 http://vegibit.com/es6-let-vs-var-vs-const/ 
+
+
+
+array methods
+string methods
+
+array to string
+string to array
