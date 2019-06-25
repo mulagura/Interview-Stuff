@@ -1,4 +1,5 @@
 https://codingcompiler.com/angular-2-interview-questions/
+https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/
 
 1. Why angular and Angular JS vs 2 and latest version and its features
 2. code structure
