@@ -28,3 +28,31 @@ Visa- F2F
 5. in angular application, where do you use Input and architect behind that, write clean code for that.    
 .....................................
 
+1. Regarding shopping cart application for basic how will manage modules, components, services etc..
+2. How to get json data from file and show it in products page 
+3. Create table headers with object keys and table content with value dynamically with out using model.
+4. Sorting and searching functionality in tables
+5. How to get products price  in products object array Greater than 10000  
+ ..............................................
+ 
+Css3: 
+1. Selectors
+2. Responsiveness 
+3. Position properties
+4. Display properties
+Javascript:
+1. Comparing two objects?
+2. For string array add one character to each string?
+3. No of character occurrences in given string?
+4. Regex logic
+Angular :
+1. Passing data between components?
+2. When can we use pipes, directives ?
+3. What is component and directive, in shopping app dashboard   
+What will the component and directive?
+1. How can we minimize the js, css, images in project?
+
+
+ 
+ 
+
