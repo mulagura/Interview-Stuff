@@ -1,0 +1,30 @@
+1.  there's an array like var a=['a','b','c'];  the output should be ['a1','b1','c1'].
+2.  there's a string called var s = 'ramana'; count no. of occurances of any single character
+3.  in application we are developing having no. of images and icons which are mb's size, what you do to ensure performance of application
+4.  why do we use name="viewport" in meta tag 
+5.  basic difference between semantic and non semantic tags
+6.  event bubbling and capturing concepts
+7.  have you ever built an website on your own intrest and faced any challenges. 
+8. make a horizantal line with two colors
+.................
+
+Visa- F2F
+
+1.  How do you structure / architect E-commerce webiste/app
+     a.  how do you modularize components or modules
+     b.  what are the tools/concepts required
+2. Let's  say client needs do display table with headings and values in angular app, 
+   you have data in object like: data = {"123":{Name:'ram',id:357}, "456":{ }, ..... }some 1000 records;
+   i need Name as my tableHeading and value as my table data, how do you achieve it.
+    a. a. write clean code in productComponent.ts
+    b. and template for productComponent.html
+3. Let's say i need to get data from API call, while hitting API i may get no data or data based on HTTP status codes,
+   how do you identify if there is data or not without using tools like Postman.
+   Which is the effective way of using http status codes to know the user data present or not.
+4. take a scenario that i need to display product images in website which are 1 lac products
+    a.  best way to display those imagesb. is it good have whole data at once/ chunk's of data at a time   
+    b. is it good have whole data at once/ chunk's of data at a time
+    c. any alternative approach, pros and cons
+5. in angular application, where do you use Input and architect behind that, write clean code for that.    
+.....................................
+
