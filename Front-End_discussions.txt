@@ -62,6 +62,7 @@ Startup's
 6. why spa, architecture behind it
 7. css preprocessors
 8. why callbacks, and their uses
+9. cookies vs localStorage vs sessionStorage// where it will get stored and modify
 
 
  
