@@ -64,7 +64,15 @@ Startup's
 8. why callbacks, and their uses
 9. cookies vs localStorage vs sessionStorage// where it will get stored and modify
 
+...........................
+How to use async/await feature ?
+How to use flex-grow?
+How to vertically center an item use flexbox?
+What is webpack?
+What is deep copy and shallow copy in JS? How to implement deep copy? 
+.......................
 
- 
- 
+develop a multiselect dropdown with country corresponding it's staes and cities ; data will be fed in json
+
+.......................................
 
