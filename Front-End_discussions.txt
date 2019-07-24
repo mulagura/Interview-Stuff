@@ -75,4 +75,6 @@ What is deep copy and shallow copy in JS? How to implement deep copy?
 develop a multiselect dropdown with country corresponding it's staes and cities ; data will be fed in json
 
 .......................................
-
+SPA
+https://www.youtube.com/watch?v=F_BYg2QGsC0
+https://www.quora.com/What-is-SPA-single-page-application
