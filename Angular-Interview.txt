@@ -1,4 +1,5 @@
 https://codingcompiler.com/angular-2-interview-questions/
+https://github.com/sudheerj/angular-interview-questions
 
 1. Why angular and Angular JS vs 2 and latest version and its features
 2. code structure
@@ -58,6 +59,8 @@ What is @Inject()? Why Use?
 What is Dependency Injection (DI) in Angular 2?
 What would you have in a shared module?
 What is the purpose of NgModule??
+ What is Transpiling in Angular?
+ What is ng-content Directive? 
 
 Angular Forms
 Angular Testing
