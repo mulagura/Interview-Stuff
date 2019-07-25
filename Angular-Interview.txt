@@ -18,3 +18,69 @@ https://angular.io/guide/bootstrapping
 15. anguar architecture
 16. types of directives and types of decarators
 17. directive vs component
+
+What are TypeScript Types? In Detail?
+How would you Optimize the Angular 2 Application for Better Performance?
+What are the Securities Threats should we be Aware of in Angular 2 Applications?
+What Is The Need For Typescript In Angular2?
+What Is @ngmodule?
+What Is Traceur Compiler ?
+What Is Primeng? How Can It Be Used With Angular2?
+How Routing Works In Angular?
+What Are Event Emitters And How It Works In Angular 2?
+What Is The Use Of Codelyzer In Angular 2 Application.?
+How Would You Define Custom Typings To Avoid Editor Warnings?
+What Is Shadow Dom? How Is It Helping Angular 2 To Perform Better? does angular follow shadow DOM or real DOM or virtual DOM?
+Difference Between Constructor And Ngoninit?
+What Are The Core Differences Between Observables And Promises?
+What is the possible order of life-cycle hooks?
+What's new in angular latest release ?
+How would you create a component to display error messages throughout your application?
+What are the difference between Renderer and ElementRef in angular 2?
+What is hidden property in Angular 2?
+What are differences between Components and Directives?
+How To Create & Call Angular 2 Services in Components?
+How do we create a singleton service in Angular 2?
+How HTTP Client is Interact with Angular 2 Servers?
+What the best way to inject one service into another in angular 2?
+What is a pure and impure pipe?
+What is Async Pipe?
+How to create and use a custom Pipes?
+How can you add an active class to a selected element in a list component?
+What is Routing Concepts in Angular 2?
+What is RouterOutlet?
+Is it possible to have a multiple router-outlet in the same template?
+What is RouterLink?
+What is Dependency Injection (DI) in Angular 2?
+What is @Injectable()? Why Use?
+What is @Inject()? Why Use?
+@Injectable() vs. @Inject()?
+What is Dependency Injection (DI) in Angular 2?
+What would you have in a shared module?
+What is the purpose of NgModule??
+
+Angular Forms
+Angular Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
