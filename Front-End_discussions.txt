@@ -82,4 +82,14 @@ in spa, it receives data in json ; whereas in mpa it receives html from server
 
 
  Explain Authentication and Authorization.
+ 
+ ..................................
+ How many ways can you get input values in JS? tell me any out of box way
+ ...................................
+ How do you get screens from client ?
+ what is your daily routine as a front end enginner?
+ how do you optimize images,icons before production phase?
+ how do you get images,icons and assets from client ?
+ how do you structure project, for eg. forms override how do you do?
+ .............................................
 
