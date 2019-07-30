@@ -1,1 +1,86 @@
 
+https://stackoverflow.com/questions/37231841/beginner-javascript-oop-vs-functional
+
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+http://funkyjavascript.com/procedural-vs-object-oriented-vs-functional-programming/
+https://blog.learningtree.com/functional-programming-object-orientated-programming/
+
+https://stackoverflow.com/questions/21607692/understanding-the-event-loop
+https://www.quora.com/Whats-the-difference-between-git-pulland-git-fetch
+
+
+
+
+6.  write a program to reverse?
+7.  remove duplicates in JS array
+8.  push,pop,shift,unshift,delete
+9.  fibanocci
+10. validation using RegExp
+11. palindrome
+12. even or odd or prime
+13. empty an array
+14. while loop
+
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question/blob/master/README.md
+
+https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+
+https://stackoverflow.com/questions/2272902/make-this-syntax-possible-var-a-add23-5
+
+https://www.toptal.com/javascript/interview-questions
+
+http://nishant8bits.github.io/2015/10/22/21-Essential-JavaScript-Interview-Questions/
+
+https://www.webcodegeeks.com/javascript/javascript-interview-questions-answers/
+
+https://www.webcodegeeks.com/wp-content/uploads/2016/01/JavaScript-Interview-Questions.pdf
+
+http://help.dottoro.com/ljgecwtw.php
+
+http://liuhao.im/english/2016/11/11/some-brain-burning-javascript-questions.html
+
+
+
+
+
+https://hackernoon.com/js-var-let-or-const-67e51dbb716f 
+
+
+https://dzone.com/articles/javascript-difference-between-var-let-and-const-ke
+
+
+
+
+recursion
+https://www.sitepoint.com/recursion-functional-javascript/
+
+revursuin is different than IIFE
+
+fun dec vs fun exp
+https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
+
+callbacks
+http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+https://stackoverflow.com/questions/2070275/what-are-closures-and-callbacks
+https://www.youtube.com/watch?v=RU-QXuhOSy0&index=21&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c
+
+
+
+
+
+https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object 
+
+
+
+https://codehandbook.org/how-to-remove-duplicates-from-javascript-array/ 
+
+
+http://vegibit.com/es6-let-vs-var-vs-const/ 
+
+
+
+array methods
+string methods
+
+array to string
+string to array
