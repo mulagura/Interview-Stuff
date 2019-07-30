@@ -8,12 +8,6 @@ https://stackoverflow.com/questions/21607692/understanding-the-event-loop
 https://www.quora.com/Whats-the-difference-between-git-pulland-git-fetch
 
 
-// Observables
-https://stackoverflow.com/questions/42342781/why-should-we-use-subscribe-over-map-in-angular2
-https://stackoverflow.com/questions/37364973/angular-promise-vs-observable
-https://www.youtube.com/watch?v=mSV0AihITxo
-https://www.youtube.com/watch?v=JFx3amVu1Yg
-
 
 
 1. Tell me about Yourself
