@@ -115,3 +115,266 @@ string methods
 
 array to string
 string to array
+
+.....................................................................................................
+JavaScript
+
+how did you organize your javascript file?
+
+how javascript file was structured?
+
+how did you load the javascript file? did you separate it into modules?
+
+Modular pattern in javascript?
+
+undefined and not defined?
+
+what is the drawback in javascript to make a function really private?
+
+what kind of drawback in browser?
+
+in javascript, NPI data should be stored in what type of variable?
+string
+
+why would not you use number for npi data?
+
+what is function hoisting in javascript?
+
+How is the variable passed -pass by value or reference in javascript?
+
+if an object is created in global scope and passed, if an attribute is modified, would the value change?
+
+how can we make a copy of an object in javascript?
+
+what is global namespace attached to? what does that mean?
+
+how can you make javascript synchronous? 
+
+Datatypes in javascript
+
+diffrnce betwwn undefined and notdefined
+
+diff btwn null and undefined
+
+diff between == and ===
+
+Explain about closures
+
+Explain about modular pattern
+
+About Hoisting in Javascript
+
+diffrnce btwn setInterval and setTimeout
+
+How to make synchronous call in Javascript
+
+1.	Object Oriented Javascript & concepts
+2.	ES6 Standards 
+
+overrdiing vs overloading in JS?
+https://stackoverflow.com/questions/34336995/overloading-vs-overriding-in-javascript
+
+try catch and finally in js?
+
+JS – difference between = and == and === ? --- answer ok 
+-	JS  - what is “this” keyword referred to ?  --- answer doubtful 
+
+How do you connect to a backend REST service ? --- answer not very good … 
+
+Have u consumed any REST API in JSON format  ---- answer ok but not very confident ..
+
+25.	Console log 1>2>3 what will be the output in javascript?
+26.	Javascript rate your knowledge
+27.	Basic datatypes of javascript
+28.	Tell me about primitive datatypes
+29.	Null and undefined same?
+30.	Tell me about closures in js
+31.	Tell me about “this ” in js
+32.	Can we use “this” on button click?
+33.	Difference between call, apply and blind
+34.	Tell me about local variables in js 6
+35.	Disadvantage of local variables
+36.	How to break infinite for loop (synchronous loop)?
+Do you have knowledge in js prototype, function and all? – 
+•	Where do you write function in constructor or prototype? 
+•	Why to write function in constructor and not in prototype? 
+•	What to do in order to make delay in a method? 
+•	Give syntax for timeout 
+•	What happens during timeout delay? - 
+•	Do you have knowledge of async programming? 
+
+Tell me about spread operator?
+Difference between document.ready and window.load. Which will execute first and which will execute at end?
+
+Closures
+
+Difference between Typescript and Javascript
+
+how is the variable passed pass by value or pass by reference
+
+how can we make a copy of an object
+
+Simulate OOO programming in JavaScript like [classes, objects , visibility identifiers like private, public etc… ] –   
+
+8)	Difference between function and function expression –   
+
+9)	Concept of immediately invoke function expression – partially   
+
+10)	What is semantics of having braces () in the function expression and how does the browser engine recognize –   
+
+Ways of managing objects -   
+
+What is bind, apply, call with respect to functions?
+4.	What are the variable types in JavaScript.
+5.	Difference between undefined and null.
+6.	Difference between == and ===
+7.	What is chaining.
+8.	How do you loop array or objects. Give some 2 to 3 functions available.
+9.	Ajax - it's syntax, its properties (like data, type, datatype, async, cache) and when Success, error, complete block will execute.
+10.	How do u create objects.
+11.	How will you delete a property in object.
+12.	Event bubbling and propagation. How you stop it.
+13.	What is prototype in objects and its use.
+14.	What are closures?
+
+Eventing – Publishing, Subscribing in javascript.
+
+29.	function hoisting
+30.	variable hoisting
+
+
+3.	What is MVC pattern? How it is implemented in UI, Javascript side? What code goes into model, view, controller files?
+4.	What is Map, WeakMap in javascript? What’s it used for and how it is used? Example
+5.	How do you loop through objects(JSON or arrays)
+6.	What is arrow function? How and why it is used?
+7.	What is prototype in object? When it’s used? And how it is used for inheritance ?
+8.	What are closures?
+9.	Topics in Object oriented JavaScript.
+10.	What are promises and how are they used? Multiple promises how are they chained?
+
+11. How can we make ajax request?
+12. For loop and for in loop with syntax
+13. Difference between let and var.
+
+
+
+
+....................................End of js .................................................
+3.	Accessibility standards
+4.	HTML5, CSS3
+5.	Responsive Web design
+
+In Typescript – What are advantages of using Type script over JS ?
+Disadvantage of using Typescript
+Are you familiar with Build process used in last project ? --- answer not too good (Was not able to give an overall picture) 
+-	What tool you used for deployment  ? ----- Not able to elaborate much 
+-	
+-	Have u consumed any REST API in JSON format  ---- answer ok but not very confident ..
+Have you used any reusable component?
+6.	Tell me which reusable component you have created?
+Do you started application from the beginning  in angular or converting app to angular?
+
+
+22.	What are stateless components?
+23.	Can we use setstate in stateless component?
+24.	Can we initialize constructor?
+
+3. List out in build angular directives ?
+
+6. what is ng-view ?
+
+How Data binding will be happened in Angular? how it works
+
+
+How comfortable with nodejs gulp and jasmine
+
+Can u alone work on Jasmine from scratch
+
+How do u perform Restful webservices call from Angular 
+
+Explain your project structure with angular nodejs gulp
+
+Different Scopes Available in Angular
+
+Cases where Angular not achieve 2-way data binding and why can’t angular identify it -   
+
+How do we take care of Memory leaks in Angular
+
+.............................................. end of angular............................
+
+On SASS related to CSS
+How z-index will work
+HTML5 Web sockets usage in web application – not   
+
+CSS3
+https://www.youtube.com/watch?v=CUxH_rWSI1k
+
+Difference between HTML 4 and 5 ? 
+Tags which are deprecated in HTML5 ? 
+
+16.	What are the new semantic tags in HTML5
+17.	What are the new features in CSS3
+18.	Shorthand style declaration for margin/padding in CSS3
+19.	What are block and inline elements?
+20.	Namespacing/Scoping in CSS, JS
+CSS – difference between the measurement units - em, pt, px, rem 
+2.	RWD – what are the coding standards followed? What is the measurement unit used ?
+Attributes of CSS3 ? Box shadow attribute .. 
+What is border radius ? Why do we use border radius ? 
+Can u apply border radius to paragraph 
+Bootstrap Grid –How many columns - ?
+CSS3 media queries .. what are they ?
+..........................................end of html..............................
+
+
+8. How to overcome network issues in development state ? - Ans Using Mock storage data
+difference between local storage and session storage and cookies?
+
+Why gulp is used
+
+Diff between stateless and stateful protocol
+What are practices to ensure HTTP stateless behavior is mitigated and way for workaround
+CROSS ORIGIN issue and ways to handle it -  
+Particular sequence header information to be passed for solving a cross origin issue
+
+3. What are the difficulties that you faced while developing the application using Angular?
+4. What are the things you did to resolve those difficulties?
+5. How can we know the compatibility of third party modules? 
+6. How can we make sure the applications which developed by some other languages to be compatible with all browsers in angular while migrating it?
+7. What are all the third party modules you have known/used?
+
+How is single page app different from other web apps
+
+How Web pack was used in previous project – was not sure of internal working 
+Debugging tools – when did u use them ?
+
+..........................................end of front end topics...................
+
+If you have been asked to work on any programming language/ operating system which you haven’t worked. How will you handle it?
+
+1. Introduction about Yourself?
+2. what is your project experience and your roles and responsibility ?
+
+what is your project exp?
+
+agile development strategy?
+
+1.	How will you solve dispute of opinion on a solution provided with your team member? 
+2.	– use words like brainstorming, pros and cons, impact on the design and already existing work, etc.
+3.	When you have to go to attend an important family function which you cannot avoid, there comes a situation in the team that your presence is needed. How will you solve this? 
+4.	– use words like – no dependability on one single person in team, backup, each team member is aware of what other person is working on, etc
+5.	When comes a situation that all of a sudden some priority work comes up and you have to complete it in small time. How will you solve this? 
+6.	– use words like – informing the stakeholders that old task will be put on hold and priority task will be taken up and help will be taken from other team members who are working on low priority tasks to complete it on time.
+7.	If there is any misunderstanding of the requirement, whom will you reach out to?
+8.	 – You can say team lead/ manager – if there is no one in the team, then to the stakeholders directly / BA team, etc
+9.	How will you decide the priority of tasks given to you?
+– You can say that you can check with lead/stakeholders on the priority to be provided or you can decide on the interdependability of the tasks.
+10. Work packets estimation is more multifold than what the time been given. Suppose you are given only 1 week time for completing a work which would take 3 weeks.
+Answer should be- 
+1.	We will discuss with clients on the basis of estimation and understand the urgency for completing it
+2.	As time critical- will take help from other teams wherever bandwidth is available
+3.	Will extend in the evening and weekends given the business criticality.
+
+........................................end of misc.................................
+
+
