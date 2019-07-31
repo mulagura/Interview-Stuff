@@ -260,9 +260,7 @@ Eventing – Publishing, Subscribing in javascript.
 
 
 ....................................End of js .................................................
-3.	Accessibility standards
-4.	HTML5, CSS3
-5.	Responsive Web design
+
 
 In Typescript – What are advantages of using Type script over JS ?
 Disadvantage of using Typescript
@@ -301,6 +299,10 @@ Cases where Angular not achieve 2-way data binding and why can’t angular ident
 How do we take care of Memory leaks in Angular
 
 .............................................. end of angular............................
+
+3.	Accessibility standards
+
+5.	Responsive Web design
 
 On SASS related to CSS
 How z-index will work
