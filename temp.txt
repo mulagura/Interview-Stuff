@@ -264,22 +264,17 @@ Eventing – Publishing, Subscribing in javascript.
 
 In Typescript – What are advantages of using Type script over JS ?
 Disadvantage of using Typescript
-Are you familiar with Build process used in last project ? --- answer not too good (Was not able to give an overall picture) 
--	What tool you used for deployment  ? ----- Not able to elaborate much 
+Are you familiar with Build process used in last project ? 
+-	What tool you used for deployment  ? 
 -	
--	Have u consumed any REST API in JSON format  ---- answer ok but not very confident ..
+-	Have u consumed any REST API in JSON format 
 Have you used any reusable component?
 6.	Tell me which reusable component you have created?
 Do you started application from the beginning  in angular or converting app to angular?
 
 
-22.	What are stateless components?
-23.	Can we use setstate in stateless component?
-24.	Can we initialize constructor?
-
 3. List out in build angular directives ?
 
-6. what is ng-view ?
 
 How Data binding will be happened in Angular? how it works
 
