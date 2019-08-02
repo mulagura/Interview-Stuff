@@ -1,5 +1,3 @@
-https://stackoverflow.com/questions/37231841/beginner-javascript-oop-vs-functional
-
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
 http://funkyjavascript.com/procedural-vs-object-oriented-vs-functional-programming/
 https://blog.learningtree.com/functional-programming-object-orientated-programming/
