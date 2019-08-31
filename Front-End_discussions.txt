@@ -92,4 +92,48 @@ in spa, it receives data in json ; whereas in mpa it receives html from server
  how do you get images,icons and assets from client ?
  how do you structure project, for eg. forms override how do you do?
  .............................................
+ 
+1.  <div>
+     <div> <p> i am venkat </p> </div>
+ </div>
+ 2. how to make block elemnts to inline
+ 3. inline vs inline-block
+ 4. Make venkata Ramana as Venkata Rama... -> how do you acheive, text-overflow, width, ellipse  and .....
+5. float:left;
+   display:inline-block; does it work ?
+   https://stackoverflow.com/questions/27511533/difference-between-display-block-float-left-vs-display-inline-block-flo
+6. what is doctype in html  ? if i remove doctype, does it render html5 new elements or thow error
+7. lets say i have 10 external scripts, out of 10 7 should load at initial, 3 should load after ? how to do
+8.what is event looping? explain v8 engine
+9. what are callbacks, async and await and promises
+10. new features in ang?
+11. caalback vs asunc,await vs prommise vs observables
+12. Observables vs Observer ?
+13. detail about DI ?
+14. how to get two API's at single time; first api will return 2, second api returns 3, how to sum those
+15. how lazy loading works? forLoad for forRoot; loadChildren
+16. how to make use of ang reactive forms? create simple form
+17. create custom pipes
+18. position: static ,...... absolute vs relative
+..........................................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
